@@ -14,6 +14,8 @@ When you're in-game and go to system settings, if you visit the tab that shows y
 #### Windows
 [Download Latest Release](https://github.com/Ariescyn/EldenRing-Mouse-Sensitivity-Patcher/releases/latest)
 
+![sens](https://user-images.githubusercontent.com/68882322/230744056-cec06fae-d634-4f7a-bee6-dab6f0dfb718.jpg)
+
 #### Linux / Proton / SteamDeck
 
 Dependencies
@@ -33,4 +35,4 @@ Compile to EXE with Pyinstaller
 ```
 pyinstaller --onefile --windowed --icon=./data/icon.ico ./main.py
 ```
-![sens](https://user-images.githubusercontent.com/68882322/230744056-cec06fae-d634-4f7a-bee6-dab6f0dfb718.jpg)
+
