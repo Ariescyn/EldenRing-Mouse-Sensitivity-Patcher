@@ -8,4 +8,4 @@ Increase your mouse movement speed beyond allowed values
 - Click "Patch" and launch the game!
 
 ### Note:
-When you're in-game and you go to system settings, if you visit the tab that shows your mouse sensitivity option, it will reset the changes. Just make sure to avoid that menu while your playing, otherwise you will have to re-patch it.
+When you're in-game and go to system settings, if you visit the tab that shows your mouse sensitivity option, it will reset the changes. Just make sure to avoid that menu while your playing, otherwise you will have to re-patch it.
