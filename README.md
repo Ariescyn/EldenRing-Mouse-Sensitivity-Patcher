@@ -29,7 +29,7 @@ Run
 python3 main.py
 ```
 
-Pyinstaller
+Compile to EXE with Pyinstaller
 ```
 pyinstaller --onefile --windowed --icon=./data/icon.ico ./main.py
 ```
