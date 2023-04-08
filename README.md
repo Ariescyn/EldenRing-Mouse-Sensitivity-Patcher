@@ -5,6 +5,7 @@ Increase your mouse movement speed beyond allowed values
 ## How to use
 - Select "Change Directory" and set it to the path of your game save directory.
 - This is usually something like C:\Users\{YOUR_USERNAME}\AppData\Roaming\EldenRing\76543210987654321
+- Enter a speed value. Normal range is 1-10, but you can now go as high as 99.
 - Click "Patch" and launch the game!
 
 ### Note:
