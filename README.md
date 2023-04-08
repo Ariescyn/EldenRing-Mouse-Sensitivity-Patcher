@@ -10,3 +10,26 @@ Increase your mouse movement speed beyond allowed values
 
 ### Note:
 When you're in-game and go to system settings, if you visit the tab that shows your mouse sensitivity option, it will reset the changes. Just make sure to avoid that menu while your playing, otherwise you will have to re-patch it.
+
+#### Windows
+[Download Latest Release](https://github.com/Ariescyn/EldenRing-Save-Manager/releases/latest)
+
+#### Linux / Proton / SteamDeck
+
+Dependencies
+```
+python3 -m pip install Pillow
+```
+Fedora/DNF for 'ImageTk' from 'PIL'
+```
+sudo dnf install python3-pillow-tk.x86_64 python3-pillow.x86_64
+```
+Run
+```
+python3 main.py
+```
+
+Pyinstaller
+```
+pyinstaller --onefile --windowed --icon=./data/icon.ico ./main.py
+```
